@@ -1,4 +1,4 @@
-### [T4xploit](https://discord.gg/a3s99a47ct). aka.Aldi Boytons
+### [INFINITY H4X](https://discord.gg/a3s99a47ct). aka.Bagus Junio
 
 
 <br/>
@@ -30,13 +30,13 @@
 
 
 
-#### - TTAX Generation, 
+#### - INFINITY H4X, 
 
 
 <br />
 
 
-**T4xploit**
+**INFINITY H4X**
 
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Discord Developer.**
 <br />
