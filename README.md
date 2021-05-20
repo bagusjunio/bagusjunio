@@ -19,7 +19,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://cdn.discordapp.com/attachments/834139605514453041/845082415013822514/comp_4.gif" />
+<img align="right" height="800px" width="600px" alt="GIF" src="https://media.giphy.com/media/WjvJO3uMQhpReBsFBM/giphy.gif" />
 <br />
 
 ### Indonesia Development.
