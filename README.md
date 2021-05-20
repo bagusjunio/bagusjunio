@@ -19,7 +19,7 @@
 
 <br />
 
-<img align="right" height="600px" width="800px" alt="GIF" src="https://media.giphy.com/media/WjvJO3uMQhpReBsFBM/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/SFy8KH2bWHQ9TGka5C/giphy.gif" />
 <br />
 
 ### Indonesia Development.
