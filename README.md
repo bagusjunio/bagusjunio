@@ -1,4 +1,4 @@
-### [INFINITY H4X](https://discord.gg/a3s99a47ct). aka.Bagus Junio
+### [BJ Development](https://discord.gg/a3s99a47ct). aka.Bagus Junio
 
 
 <br/>
@@ -30,13 +30,13 @@
 
 
 
-#### - INFINITY H4X, 
+#### - BJ Development, 
 
 
 <br />
 
 
-**INFINITY H4X**
+**BJ Development**
 
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Discord Developer.**
 <br />
